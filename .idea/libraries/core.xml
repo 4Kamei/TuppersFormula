@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="core">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Desktop/processing-2.2.1-windows64/sketch_150415a/application.windows64/lib/core.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/processing-2.2.1-windows64/sketch_150415a/application.windows64/lib/gluegen-rt.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/processing-2.2.1-windows64/sketch_150415a/application.windows64/lib/jogl-all.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/processing-2.2.1-windows64/sketch_150415a/application.windows64/lib/sketch_150415a.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <NATIVE>
+      <root url="jar://$USER_HOME$/Desktop/processing-2.2.1-windows64/sketch_150415a/application.windows64/lib/gluegen-rt-natives-windows-amd64.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/processing-2.2.1-windows64/sketch_150415a/application.windows64/lib/jogl-all-natives-windows-amd64.jar!/" />
+    </NATIVE>
+    <SOURCES />
+  </library>
+</component>
